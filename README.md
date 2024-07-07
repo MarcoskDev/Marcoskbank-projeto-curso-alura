@@ -2,7 +2,7 @@
 # Projeto Marcoskbank desenvolvido durante o curso da Alura em parceria com o programa Inova Maranhão.
 
 MarcosKBank é uma página web desenvolvida para simular um banco online. O projeto inclui funcionalidades como criação de contas e verificação por foto. Além disso, oferece uma interface intuitiva para que os usuários possam realizar operações bancárias de forma segura e conveniente. Durante o desenvolvimento, foram implementadas técnicas avançadas de validação de dados e autenticação de usuários para garantir a segurança.
-<img src="">
+<img src="Banner-projeto-MarcosKBank.png">
 
 #### Link de visualização do projeto
 [Clique aqui para ver o projeto](https://marcoskdev.github.io/Marcoskbank-projeto-curso-alura/)
